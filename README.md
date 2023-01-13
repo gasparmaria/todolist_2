@@ -1,16 +1,3 @@
-# todolist_2
+# Lista de Tarefas 2.0
 
-Nova versão do aplicativo de lista de tarefas.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nova versão do aplicativo Flutter de lista de tarefas, agora com Refresh, ordenação de itens e lista com checagem.
