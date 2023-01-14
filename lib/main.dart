@@ -200,9 +200,13 @@ class _HomePageState extends State<HomePage> {
 
     setState(() {
       todoList.sort((a, b){
-        if(a['ok'] && !b['ok']) return 1;
-        else if(!a['ok'] && b['ok']) return -1;
-        else return 0;
+        if(a['ok'] && !b['ok']) {
+          return 1;
+        } else if(!a['ok'] && b['ok']) {
+          return -1;
+        } else {
+          return 0;
+        }
       });
 
       saveData();
